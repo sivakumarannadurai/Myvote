@@ -1,0 +1,22 @@
+[
+  {
+    "id": 50001,
+    "electionYear": "2025",
+    "stateName": "Puducherry",
+    "districtName": "Karaikal",
+    "acNo": "29",
+    "acName": "KARAIKAL NORTH",
+    "candidateName": "RAJESH KUMAR",
+    "gender": "MALE",
+    "age": 44,
+    "category": "GENERAL",
+    "partyName": "INC",
+    "partySymbol": "Hand",
+    "votesSecuredGeneral": 25784,
+    "votesSecuredPostal": 102,
+    "votesSecuredTotal": 25886,
+    "percentVotesPolled": 48.32,
+    "totalElectors": 53520,
+    "createdAt": "2025-10-28 12:00:00"
+  }
+]
